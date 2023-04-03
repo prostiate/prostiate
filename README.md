@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prostiate
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning GOLANG, Javascript and PHP (Laravel)
+- 👀 I’m interested in full cycle Web Development
+- 🌱 I’m currently learning GOLANG, and Javascript & Typescript
 
 <!---
 prostiate/prostiate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
