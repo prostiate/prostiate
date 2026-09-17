@@ -1,67 +1,53 @@
-# 👋 Hi, I'm Muhammad Irfan Kurniawan!
+# Muhammad Irfan Kurniawan
 
-🚀 **Senior Full Stack Engineer | 8+ Years Experience | DevOps & Architecture**
-
-Currently driving technical modernization at **Amazone Indonesia**, architecting enterprise-grade retail systems and microservices. I specialize in high-velocity delivery using **AI-native workflows** and end-to-end product ownership.
-
-## 💼 What I Do
-
-- 🏗️ **Architect Scalable Systems:** Design and deploy integrated retail platforms handling multi-outlet operations, complex costing (FIFO), and real-time reporting.
-- ⚡ **High-Velocity Delivery:** Leverage **AI-augmented workflows** (Cursor, Claude) to ship production-grade applications with **100% on-time delivery**.
-- 🛠️ **Modernize Tech Stacks:** Lead strategic migrations (Next.js → Nuxt) and build high-performance microservices (Bun + Hono).
-- 🚀 **DevOps Ownership:** Manage full application-level infrastructure (5 VMs, Nginx, Docker) and establish reliable **CI/CD pipelines** with Jenkins.
-- 📊 **Observability:** Ensure 99.9% uptime with comprehensive monitoring using **New Relic, Sentry, and Grafana**.
-
-## 🔥 Featured Projects
-
-### 🛍️ Integrated Retail Operations System (Current)
-*Amazone Indonesia*
-A massive, multi-company inventory and cashier system managing stock, FIFO costing, and daily transactions.
-- **Impact:** Successfully rolled out to Head Office (Dec 2025) and Stores (Jan 2026).
-- **Tech:** Nuxt (Vue.js), PrimeVue, Golang, GraphQL.
-
-### 🔐 Centralized Auth Microservice
-*Amazone Indonesia*
-Independently architected a unified session management service to resolve authentication fragmentation across business units.
-- **Impact:** Unified access for 4 Backends and 4 Frontends, enabling seamless integration for Playtopia.
-- **Tech:** **Bun**, **Hono**, Better Auth, Redis.
-
-### 🎯 Real-Time Revenue Dashboard
-*Amazone Indonesia*
-Delivered a critical management dashboard within **my first 2 weeks** of joining.
-- **Impact:** provided the first real-time revenue tracking tool for C-level executives.
-- **Tech:** Next.js, GraphQL, Golang (Developed with AI-Native Workflows).
-
-### 👤 Face Recognition System
-*Kompas Gramedia*
-AI-powered library visitor tracking system achieving **95% check-in accuracy**.
-- **Tech:** Python, Kafka, NestJS, Next.js, MongoDB.
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | **Next.js**, **Nuxt (Vue.js)**, React, PrimeVue, Vite, Material UI, Tailwind |
-| **Backend** | **Golang**, **Bun**, **Hono**, NestJS, PHP (Laravel, Yii) |
-| **Database** | PostgreSQL, MySQL, Redis, MongoDB, InfluxDB |
-| **DevOps** | Docker, Jenkins, Nginx, GitHub Actions, Linux (VM Management) |
-| **Monitoring** | New Relic, Sentry, Grafana, Prometheus, Loki |
-| **AI & Tools** | Cursor, Claude Sonnet, Git Flow, Notion |
-
-## 📈 Career Highlights
-
-- 🏢 **Current:** Full Stack Developer at **Amazone Indonesia** (May 2025 - Present)
-- 🏢 **Previous:** Full Stack Developer at **Kompas Gramedia** (Jan 2023 - May 2025)
-- 🚀 **Core Achievement:** Delivered **Integrated Retail System** & **Cashier** rollout for nationwide stores.
-- ⚡ **Efficiency:** Maintained **100% on-time delivery** record across 4 concurrent production apps.
-- 🔧 **Infrastructure:** Sole manager of application infrastructure across 5 Production/Staging VMs.
-
-## 📫 Let's Connect
-
-📧 irfankurniawan1004@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/muhammad-irfan-kurniawan)
-📍 Jakarta, Indonesia
+Senior Full Stack & Systems Engineer based in Jakarta, Indonesia.  
+Writing about systems, web performance, and software architecture at [**irfankurniawan.com**](https://irfankurniawan.com).
 
 ---
 
-🔥 Passionate about **clean architecture**, **shipping fast**, and leveraging **AI** to build impactful solutions!
+## Focus & Experience
+
+I specialize in architecting resilient production systems, high-concurrency retail platforms, and performant frontend architectures. Currently leading technical modernization at **Amazone Indonesia**, overseeing application infrastructure across production clusters and unifying distributed services.
+
+- **Enterprise Retail & Point of Sale:** Designed and deployed multi-outlet retail systems managing live stock, inventory ledger accounting (FIFO), and real-time cashier transactions.
+- **Identity & Auth Federation:** Architected a high-throughput session service unifying authentication across 4 backend services and 4 frontend client apps.
+- **Frontend Architecture & Edge:** Rebuilt fragmented multi-app ecosystems into a unified, shared Nuxt layer; engineered zero-cold-start edge delivery and low-latency client bundles.
+- **Self-Hosted Infrastructure:** Hands-on Linux systems administration, multi-node VM automation, private container registries, CI/CD pipelines, and unified observability (Sentry, Grafana, Prometheus).
+
+---
+
+## Selected Systems & Projects
+
+- **[Retail Operations Engine](https://irfankurniawan.com/projects/fe-amazone-monorepo)** — High-availability inventory and cashier platform handling nationwide store operations, multi-company fiscal books, and real-time revenue analytics. *(Nuxt, Vue 3, Go, GraphQL)*
+- **[Centralized Auth Microservice](https://irfankurniawan.com/projects/amazone-auth-service)** — Unified high-performance token and session gateway resolving cross-domain authentication fragmentation. *(Bun, Hono, Redis, Docker)*
+- **[Engineering Monograph & Platform](https://irfankurniawan.com)** — Open-source technical monograph and deep-dive laboratory with interactive 3D topology canvas and zero drop-shadow editorial design. *(Nuxt 4, MDC, Cloudflare Workers)*
+- **[Ono Toolkit](https://onotoolkit.irfankurniawan.com)** — Client-side web utility suite with zero server payload using WebAssembly codecs and ONNX Runtime. *(Nuxt, WebAssembly, Web Workers)*
+
+---
+
+## Technical Domain
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages & Runtimes** | TypeScript, JavaScript, Go, Python, PHP, Bun, Node.js |
+| **Frontend Architecture** | Nuxt 4, Vue 3, Next.js, React, Tailwind CSS, Web Workers, Vite |
+| **Backend & Data** | Go, Hono, NestJS, GraphQL, PostgreSQL, MySQL, Redis, MongoDB |
+| **Infra & Observability** | Linux (Ubuntu/Debian), Docker, Nginx, Cloudflare Workers, Grafana, Prometheus, Sentry |
+
+---
+
+## Recent Essays & Writing
+
+- [23 MB I Never Load: What Shipping Ghostscript and ONNX to Cloudflare Costs](https://irfankurniawan.com/blog/23-mb-i-never-load-cloudflare-wasm-payload)
+- [The Kubernetes Deployment That Taught Me to Measure the Disk](https://irfankurniawan.com/blog/kubernetes-storage-postmortem-multi-vm-blue-green-automation)
+- [Self-Hosting the Delivery Loop on a Tight Resource Budget](https://irfankurniawan.com/blog/privacy-first-self-hosted-infrastructure-cicd-observability)
+- [From Copy-Pasted Frontends to One Shared Nuxt Layer](https://irfankurniawan.com/blog/micro-frontend-evolution-cashier-backoffice-v2-nuxt-monorepo)
+
+---
+
+## Contact & Links
+
+- **Website:** [irfankurniawan.com](https://irfankurniawan.com)
+- **Email:** [mail@irfankurniawan.com](mailto:mail@irfankurniawan.com)
+- **LinkedIn:** [muhammad-irfan-kurniawan](https://www.linkedin.com/in/muhammad-irfan-kurniawan/)
+- **Location:** Jakarta, Indonesia
